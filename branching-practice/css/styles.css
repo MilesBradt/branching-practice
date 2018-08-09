@@ -1,0 +1,11 @@
+.forAdults, .forKids {
+  display: none;
+}
+
+.form-group {
+  width: 120px;
+}
+
+body {
+  background-color: #A6998D;
+}
